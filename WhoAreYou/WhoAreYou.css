@@ -1,0 +1,22 @@
+h1{
+text-align:center;
+}
+
+img{
+object-fit:cover;
+height:400px;
+width:300px;
+}
+
+.main{
+text-align:center;
+}
+
+.contents{
+height:500px;
+display:flex;
+}
+
+.contents-item{
+margin:20px 50px 0 100px;
+}
